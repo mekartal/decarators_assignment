@@ -1,0 +1,1 @@
+{'inventory': {'banana': 2}, 'account': 50.0}
